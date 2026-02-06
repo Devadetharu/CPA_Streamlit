@@ -48,7 +48,7 @@ Ensure you have Python 3.8+ installed on your system.
 
 
 ## Installation
-#### 1. Clone the repository:
+### 1. Clone the repository:
 
 #### Bash
 
@@ -58,14 +58,14 @@ cd CPA_Streamlit
 
 
 
-#### 2. Install dependencies:
+### 2. Install dependencies:
 
 #### Bash
 pip install -r requirements.txt
 
 
 
-#### 3. Run the application:
+### 3. Run the application:
 
 #### Bash
 streamlit run app.py
